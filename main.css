@@ -10,7 +10,7 @@ body{
   margin: 10% 25%;
   border-radius: 15px;
 }
-.header .hero-img{
+header .hero-img{
   width: 100%;
   border-radius: 8px;
 }
@@ -140,7 +140,7 @@ body{
   .container .nutrition{
     margin: 1.5rem;
   }
-  .header .hero-img{
+  header .hero-img{
     width: 100%;
     padding: 0;
   }
